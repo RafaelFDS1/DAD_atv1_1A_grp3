@@ -1,2 +1,2 @@
 # DAD_atv1_1A_grp3
- Atividade em Grupo aula 5
+ Repositório da atividade em grupo aula 5
